@@ -1,0 +1,2 @@
+# Myplugin
+Wordpress Trustjackor Plugin
