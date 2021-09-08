@@ -1,2 +1,2 @@
 # Myplugin
-Wordpress Trustjackor Plugin
+Xverify Plugin
